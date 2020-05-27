@@ -6,13 +6,15 @@ This project aims to identify commonalities of css-variable names in different f
 
 ### Colors
 Best practice in my eyes:  
+```css
 --color-primary-h: 38.8;  
 --color-primary: hsl(var(--color-primary-h), 80%, 50%);  
 --color-primary-light: hsl(var(--color-primary-h), 80%, 85%);   
 --color-primary-dark: hsl(var(--color-primary-h), 80%, 30%);  
 --color-seconary-h: 20;   
 ...   
-  
+```
+
 **advantages:** at best, you just have to change the "hue"  
 **disadvantage:** more code than if you define the colors directly  
 
