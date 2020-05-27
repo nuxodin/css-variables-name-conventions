@@ -20,7 +20,9 @@ https://github.com/twbs/bootstrap/blob/master/scss/_variables.scss
 
 
 
-blog-posts:
+
+
+blog-posts:  
 https://css-tricks.com/what-do-you-name-color-variables/
 
 
