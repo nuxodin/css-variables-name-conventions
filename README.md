@@ -3,10 +3,6 @@
 This project aims to identify commonalities of css-variable names in different frameworks and to derive recommendations.
 
 ## what should be available as variable
-- colors
-- fonts
-- spacing
-- ???
 
 ### Colors
 Best practice in my eyes:  
