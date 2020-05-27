@@ -1,4 +1,4 @@
-# CSS variables nameing conventions
+# CSS variables naming conventions
 
 ionic framework:  
 https://ionicframework.com/docs/theming/colors
