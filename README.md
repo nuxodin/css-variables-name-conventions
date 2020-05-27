@@ -20,7 +20,7 @@ Best practice in my eyes:
 
 also to be considered:  
 `--color-1`;  instead of `--color-primary` pros: not just primary and secondary
---theme-color would be like the Web App Manifest standard...
+`--theme-color` would be like the Web App Manifest standard...
 
 
 
@@ -28,8 +28,16 @@ also to be considered:
 --font-primary  
 --font-secondary  
 
-### Spacing
---gap
+### Layout
+
+spacing between sections
+eg. `--space:3rem;` --space-2...?
+
+column- / table- / grid-gaps
+eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`
+
+content-width
+eg. `--width:50rem`
 
 
 ## Frameworks
