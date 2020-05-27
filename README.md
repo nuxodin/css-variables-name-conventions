@@ -21,14 +21,14 @@ Best practice in my eyes:
 **disadvantage:** more code than if you define the colors directly  
 
 also to be considered:  
-`--color-1`;  instead of `--color-primary`
+`--color-1`;  instead of `--color-primary` pros: not just primary and secondary
 --theme-color would be like the Web App Manifest standard...
 
 
 
 ### Fonts
---font-primary
---font-secondary
+--font-primary  
+--font-secondary  
 
 ### Spacing
 --gap
