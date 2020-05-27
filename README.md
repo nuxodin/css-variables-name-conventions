@@ -8,7 +8,7 @@ This project aims to identify commonalities of css-variable names in different f
 - spacing
 - ???
 
-### colors
+### Colors
 Best practice in my eyes:  
 --color-primary-h: 38.8;  
 --color-primary: hsl(var(--color-primary-h), 80%, 50%);  
@@ -26,7 +26,7 @@ also to be considered:
 
 
 
-### fonts
+### Fonts
 --font-primary
 --font-secondary
 
