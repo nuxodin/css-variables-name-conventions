@@ -30,14 +30,14 @@ also to be considered:
 
 ### Layout
 
-spacing between sections
-eg. `--space:3rem;` --space-2...?
+spacing between sections  
+eg. `--space:3rem;` --space-2...?  
 
-column- / table- / grid-gaps
-eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`
+column- / table- / grid-gaps  
+eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`  
 
-content-width
-eg. `--width:50rem`
+content-width  
+eg. `--width:50rem`  
 
 
 ## Frameworks
