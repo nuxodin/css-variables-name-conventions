@@ -30,9 +30,11 @@ also to be considered:
 --font-primary
 --font-secondary
 
-### spacing
+### Spacing
 --gap
 
+
+## Frameworks
 
 ionic framework:  
 https://ionicframework.com/docs/theming/colors
@@ -52,7 +54,7 @@ https://github.com/twbs/bootstrap/blob/master/scss/_variables.scss
 
 
 
-blog-posts:  
+## Blog-posts
 https://css-tricks.com/what-do-you-name-color-variables/
 
 
