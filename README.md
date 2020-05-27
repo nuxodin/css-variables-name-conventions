@@ -1,4 +1,4 @@
-# CSS variables naming conventions
+# CSS variables - naming conventions
 
 This project aims to identify commonalities of css-variable names in different frameworks and to derive recommendations.
 
