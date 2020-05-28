@@ -37,7 +37,7 @@ eg. `--space:3rem;` --space-2...?
 column- / table- / grid-gaps  
 eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`  
 
-content-width  
+(max) content-width  
 eg. `--width:50rem`  
 
 
