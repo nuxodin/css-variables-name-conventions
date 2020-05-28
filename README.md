@@ -1,7 +1,7 @@
 # CSS variables - naming conventions
 
 This project aims to identify commonalities of css-variable names in different frameworks and to derive recommendations.  
-It would be great if third-party components could count on the availability of the same variables.  
+It would be great if third-party components could rely on the availability of the same variables.  
 
 ## What should be available?
 
