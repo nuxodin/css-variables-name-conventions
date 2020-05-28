@@ -5,7 +5,7 @@ It would be great if third-party components could count on the availability of t
 
 ## what should be available?
 
-### Colors
+## Colors
 Best practice in my eyes:  
 ```css
 --color-primary-h: 38.8;  
@@ -25,11 +25,11 @@ also to be considered:
 
 
 
-### Fonts
+## Fonts
 --font-primary  
 --font-secondary  
 
-### Layout
+## Layout
 
 spacing between sections  
 eg. `--space:3rem;` --space-2...?  
