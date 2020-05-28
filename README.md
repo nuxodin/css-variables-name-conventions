@@ -3,7 +3,7 @@
 This project aims to identify commonalities of css-variable names in different frameworks and to derive recommendations.  
 It would be great if third-party components could count on the availability of the same variables.  
 
-## what should be available as variable
+## what should be available?
 
 ### Colors
 Best practice in my eyes:  
