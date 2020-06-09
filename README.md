@@ -8,13 +8,13 @@ It would be great if third-party components could rely on the availability of th
 ## Colors
 Best practice in my eyes:  
 ```css
---color-primary-h: 38.8;  
---color-primary-s: 80%;  
---color-primary: hsl(var(--color-primary-h), var(--color-primary-s), 50%);  
---color-primary-light: hsl(var(--color-primary-h), var(--color-primary-s), 85%);   
---color-primary-dark: hsl(var(--color-primary-h), var(--color-primary-s), 30%);  
+--color-h: 38.8;  
+--color-s: 80%;  
+--color: hsl(var(--color-primary-h), var(--color-primary-s), 50%);  
+--color-light: hsl(var(--color-primary-h), var(--color-primary-s), 85%);   
+--color-dark: hsl(var(--color-primary-h), var(--color-primary-s), 30%);  
 
---color-seconary-h: 20;   
+--color-2-h: 20;   
 ...   
 ```
 
@@ -22,14 +22,14 @@ Best practice in my eyes:
 **disadvantage:** more code than if you define the colors directly  
 
 also to be considered:  
-`--color-1`;  instead of `--color-primary` pros: not just primary and secondary  
+`--color-1`;  instead of `--color` pros: not just primary and secondary  
 `--theme-color` would be like the Web App Manifest standard...
 
 
 
 ## Fonts
---font-primary  
---font-secondary  
+--font  
+--font-2  
 
 ## Layout
 
