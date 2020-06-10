@@ -22,8 +22,9 @@ Best practice in my eyes:
 **disadvantage:** more code than if you define the colors directly  
 
 also to be considered:  
-`--color-1`;  instead of `--color` pros: not just primary and secondary  
+`--color-1`;  instead of `--color` ?  
 `--theme-color` would be like the Web App Manifest standard...
+`--theme-primary` often used (what can co wrong when just use `--color` ?)  
 
 
 
