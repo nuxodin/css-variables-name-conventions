@@ -24,7 +24,7 @@ Best practice in my eyes:
 also to be considered:  
 `--color-1`;  instead of `--color` ?  
 `--theme-color` would be like the Web App Manifest standard...  
-`--theme-primary` often used (what can co wrong when just use `--color` ?)  
+`--theme-primary` often used (what can go wrong when just use `--color` ?)  
 
 
 
