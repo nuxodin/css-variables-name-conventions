@@ -49,6 +49,9 @@ eg. `--width:50rem`
 feathercss:  
 https://github.com/elishaterada/feathercss/blob/master/dist/feather.css
 
+basic.css  
+https://github.com/vladocar/Basic.css/blob/master/css/basic.css
+
 pollen:  
 https://github.com/radioactivepesto/pollen/tree/master/src/lib
 
