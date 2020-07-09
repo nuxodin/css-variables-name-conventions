@@ -73,6 +73,8 @@ https://github.com/twbs/bootstrap/blob/master/scss/_variables.scss
 material-design:  
 https://github.com/material-components/material-components-web/blob/91aa2d6a613565546a3c47c375ad929f79c910b4/docs/theming.md#step-4-changing-the-theme-with-css-custom-properties
 
+microsoft fast:  
+https://fast.design/docs/design/design-system
 
 
 ## Blog-posts
