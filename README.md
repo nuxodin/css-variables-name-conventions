@@ -8,14 +8,24 @@ It would be great if third-party components could rely on the availability of th
 ## Colors
 Best practice in my eyes:  
 ```css
---color-h: 38.8;  
---color-s: 80%;  
---color: hsl(var(--color-primary-h), var(--color-primary-s), 50%);  
---color-light: hsl(var(--color-primary-h), var(--color-primary-s), 85%);   
---color-dark: hsl(var(--color-primary-h), var(--color-primary-s), 30%);  
+  --hsl-h: 38.8;
+  --hsl-s: 80%;
+  --hsl-l: 38.4%;
 
---color-2-h: 20;   
-...   
+  --color: hsl(var(--hsl-h), var(--hsl-s), var(--hsl-l));
+
+  --color-light: hsl(var(--hsl-h), var(--hsl-s), calc(var(--hsl-l) + (100% - var(--hsl-l)) * .9 ) );
+  --color-dark: hsl(var(--hsl-h), var(--hsl-s), calc(var(--hsl-l) * .7 ) );
+
+  --color-bg: hsl(var(--hsl-h), var(--hsl-s), 99.5%);
+  --color-text: hsl(var(--hsl-h), var(--hsl-s), calc(var(--hsl-l) * .4 ) );
+
+  --hsl-h-2: 20;   
+  --hsl-2-s-2: var(--hsl-s);
+  --hsl-l-2: var(--hsl-l);
+  --color-2: hsl(var(--hsl-h-2), var(--hsl-s-2), var(--hsl-l-2));
+  ...   
+  
 ```
 
 **advantages:** at best, you just have to change the "hue"  
