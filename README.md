@@ -3,6 +3,7 @@
 This project aims to identify commonalities of css-variable names in different frameworks and to derive recommendations.  
 It would be great if third-party components could rely on the availability of the same variables.  
 
+
 ## What should be available?
 
 ## Colors
@@ -54,6 +55,17 @@ eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`
 
 (max) content-width  
 eg. `--width:50rem`  
+
+
+## Increment / Decrement
+Many properties are often requested in different increments.  
+Examples:  
+`--width-x`, `--space--x`, `--gray-x`   
+Possibilities are:  
+`--width-0` to `--width-10` (`--width` would then correspond to `--width-5`)  
+`--width-0` to `--width-100` (`--width` would then correspond to `--width-50`)  
+`--width-xxs` to `--width-xxl` (`--width` would then correspond to `--width-m`)  
+
 
 
 ## Frameworks
