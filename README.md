@@ -21,10 +21,10 @@ Best practice in my eyes:
   --color-bg: hsl(var(--hsl-h), var(--hsl-s), 99.5%);
   --color-text: hsl(var(--hsl-h), var(--hsl-s), calc(var(--hsl-l) * .4 ) );
 
-  --hsl-h-2: 20;   
-  --hsl-2-s-2: var(--hsl-s);
-  --hsl-l-2: var(--hsl-l);
-  --color-2: hsl(var(--hsl-h-2), var(--hsl-s-2), var(--hsl-l-2));
+  --hsl2-h: 20;   
+  --hsl2-s: var(--hsl-s);
+  --hsl2-l: var(--hsl-l);
+  --color2: hsl(var(--hsl2-h), var(--hsl2-s), var(--hsl2-l));
   ...   
   
 ```
