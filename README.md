@@ -28,7 +28,7 @@ Best practice in my eyes:
   ...   
   
 ```
-Once lab is supported, we use `--lab-l` will be used  
+Once lab is supported, `--lab-l` will be used  
 
 
 **advantages:** at best, you just have to change the "hue"  
