@@ -70,11 +70,12 @@ Other recommendations?
 If I don't misunderstand, cascade levels can get messed up when using foreign code.
 Do we need defacto standards here? 
 
+```css
 @layer base;
 @layer theme;
 @layer components;
 @layer utilities;
-
+```
 
 
 
