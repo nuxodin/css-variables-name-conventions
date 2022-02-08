@@ -4,8 +4,6 @@ This project aims to identify commonalities of css-variable names in different f
 It would be great if third-party components could rely on the availability of the same variables.  
 
 
-## What should be available?
-
 ## Colors
 Best practice in my eyes:  
 ```css
@@ -28,7 +26,7 @@ Best practice in my eyes:
   ...   
   
 ```
-Once lab is supported, `--lab-l` will be used  
+Once css `lab()` is supported, `--lab-l` will be used  
 
 
 **advantages:** at best, you just have to change the "hue"  
@@ -67,6 +65,18 @@ Possibilities are:
 `--width-xxs` to `--width-xxl` (`--width` would then correspond to `--width-m`)  
 
 Other recommendations?
+
+## Cascade Layers
+If I don't misunderstand, cascade levels can get messed up when using foreign code.
+Do we need defacto standards here? 
+
+@layer base;
+@layer theme;
+@layer components;
+@layer utilities;
+
+
+
 
 ## Frameworks
 
