@@ -33,7 +33,7 @@ Once css `lab()` is supported, `--lab-l` will be used
 **disadvantage:** more code than if you define the colors directly  
 
 also to be considered:  
-`--color-1`;  instead of `--color` ?  
+`--color1`;  instead of `--color` ?  
 `--theme-color` would be like the Web App Manifest standard...  
 `--theme-primary` often used, what can go wrong when just use `--color` ? (collisions?)   
 
@@ -41,12 +41,12 @@ also to be considered:
 
 ## Fonts
 --font  
---font-2  
+--font2  
 
 ## Layout
 
 spacing between sections  
-eg. `--space:3rem;` --space-2...?  
+eg. `--space:3rem;` --space2...?  
 
 column- / table- / grid-gaps  
 eg. `--gap:2rem;` `--col-gap:2rem;` `--row-gap:2rem;`  
