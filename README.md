@@ -124,6 +124,9 @@ zoo-web-components:
 https://github.com/zooplus/zoo-web-components
 
 ## Blog-posts
+
+https://uxdesign.cc/naming-design-tokens-9454818ed7cb
+
 https://css-tricks.com/what-do-you-name-color-variables/
   
   
