@@ -127,6 +127,10 @@ https://github.com/zooplus/zoo-web-components
 
 https://uxdesign.cc/naming-design-tokens-9454818ed7cb
 
+https://medium.com/eightshapes-llc/naming-tokens-in-design-systems-9e86c7444676
+
+https://www.youtube.com/watch?v=P7kR5dag8iw
+
 https://css-tricks.com/what-do-you-name-color-variables/
   
   
