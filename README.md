@@ -58,7 +58,7 @@ eg. `--width:50rem`
 ## Increment / Decrement
 Many properties are often requested in different gradations.  
 Examples:  
-`--width-x`, `--space--x`, `--gray-x`   
+`--width-x`, `--space-x`, `--gray-x`   
 Possibilities are:  
 `--width-0` to `--width-10` (`--width` would then correspond to `--width-5`)  
 `--width-0` to `--width-100` (`--width` would then correspond to `--width-50`)  
