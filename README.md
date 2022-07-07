@@ -27,7 +27,7 @@ Best practice in my eyes:
   ...   
   
 ```
-Once css `lab()` is supported, `--lab-l` will be used  
+Once css `lch()` is supported, `--lch-l` will be used  
 
 
 **advantages:** at best, you just have to change the "hue"  
