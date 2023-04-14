@@ -82,6 +82,9 @@ Do we need defacto standards here?
 
 ## Frameworks
 
+Open-Props
+https://open-props.style/
+
 Pico.css  
 https://github.com/picocss/pico/blob/master/css/pico.classless.css
 
