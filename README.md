@@ -82,7 +82,7 @@ Do we need defacto standards here?
 
 ## Frameworks
 
-Open-Props
+Open-Props  
 https://open-props.style/
 
 Pico.css  
