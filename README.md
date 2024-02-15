@@ -80,8 +80,10 @@ Do we need defacto standards here?
 
 ## Read-only CSS variables
 
-CSS variables that should not be changed are labelled with the prefix r-. 
-This practice helps to distinguish variables that are manipulated by JavaScript and should only be read from others.
+CSS variables that should not be changed are labelled with the prefix `--r-`.  
+Example: `--r-optimal-font-size`  
+This practice helps to distinguish variables that are manipulated by JavaScript and should only be read from others.  
+
 
 ## Frameworks
 
