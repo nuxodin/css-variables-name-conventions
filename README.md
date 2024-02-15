@@ -78,7 +78,10 @@ Do we need defacto standards here?
 @layer utilities;
 ```
 
+## Read-only CSS variables
 
+CSS variables that should not be changed are labelled with the prefix r-. 
+This practice helps to distinguish variables that are manipulated by JavaScript and should only be read from others.
 
 ## Frameworks
 
