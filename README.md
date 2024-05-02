@@ -67,6 +67,19 @@ Possibilities are:
 
 Other recommendations?
 
+
+## JS-generated / Read-only
+
+CSS variables that are controlled by js and should not be changed are labelled with the prefix `--js-`.  
+Example: `--js-optimal-font-size`  
+This practice helps to distinguish variables that are manipulated by JavaScript and should only be read from others.  
+
+Alternatives would be:  
+- --ro-var (readonly)
+- --r-var (read)
+- --gen (generated)
+
+
 ## Cascade Layers
 If I don't misunderstand, cascade levels can get messed up when using foreign code.
 Do we need defacto standards here? 
@@ -77,13 +90,6 @@ Do we need defacto standards here?
 @layer components;
 @layer utilities;
 ```
-
-## Read-only CSS variables
-
-CSS variables that should not be changed are labelled with the prefix `--r-`.  
-Example: `--r-optimal-font-size`  
-This practice helps to distinguish variables that are manipulated by JavaScript and should only be read from others.  
-
 
 ## Frameworks
 
